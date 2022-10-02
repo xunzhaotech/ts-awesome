@@ -1,0 +1,12 @@
+{
+  "name": "ts-awesome",
+  "version": "1.0.0",
+  "description": "TypeScript从入门到精通",
+  "main": "index.js",
+  "repository": "https://github.com/xunzhaotech/ts-awesome.git",
+  "author": "luyb <luyb@xunzhaotech.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
