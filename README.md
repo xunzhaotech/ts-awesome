@@ -12,7 +12,7 @@ JavaScript的数据类型有8种，在ES5的时候，我们认知的数据类型
 ##### 引用类型
 - Object（function、Array、Date）
 #### TypeScript从入门到精通
-- [  ]  【第1节】 TypeScript环境安装
+- [ ] 【第1节】 TypeScript环境安装
 - [X] 【第2节】 TypeScript基本类型（String）
 - [X] 【第3节】 TypeScript基本类型 （Number）
 - [X] 【第4节】 TypeScript基本类型（Boolean）
