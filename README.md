@@ -1,6 +1,122 @@
 # ts-awesome
 #### JavaScript的数据类型（普及）
 JavaScript的数据类型有8种，在ES5的时候，我们认知的数据类型是6种，Number、Null、Undefined、Boolean、String、Object。ES6中新增一种Symbol，这种类型的对象永不相等，即使创建的时候传入相同的值，可以解决属性名冲突的问题，作为标记。谷歌还出现一种bigint。是指安全存储、操作大整数。（很多人不把这个作为数据类型）。
+## 学习目录
+创建一个 TypeScript 从入门到精通的学习提纲，可以帮助学习者系统地掌握 TypeScript 的核心概念和应用。这个提纲覆盖了从基础到高级的 TypeScript 知识，旨在帮助学习者逐步深入理解 TypeScript，并在实际项目中应用所学知识。随着 TypeScript 的不断发展，这个提纲也可以根据新的功能和最佳实践进行更新。以下是一个建议的学习提纲：
+
+### TypeScript 入门
+1. **TypeScript 简介**
+   - 什么是 TypeScript
+   - TypeScript 与 JavaScript 的关系
+   - 为什么选择 TypeScript
+
+2. **环境搭建**
+   - 安装 Node.js 和 npm
+   - 安装 TypeScript 编译器
+
+3. **基础语法**
+   - 类型注解
+   - 接口（Interfaces）
+   - 类（Classes）
+   - 函数（Functions）
+
+4. **类型系统**
+   - 基本类型
+   - 复杂类型：联合类型、交叉类型
+   - 类型别名（Type Aliases）
+   - 泛型（Generics）
+
+5. **面向对象编程**
+   - 继承（Inheritance）
+   - 封装（Encapsulation）
+   - 多态（Polymorphism）
+
+### TypeScript 进阶
+6. **模块化编程**
+   - ES6 模块与 CommonJS 模块
+   - TypeScript 的模块系统
+
+7. **高级类型**
+   - 索引类型（Indexed Types）
+   - 条件类型（Conditional Types）
+   - 高级类型守卫
+
+8. **装饰器（Decorators）**
+   - 类装饰器
+   - 方法装饰器
+   - 访问器装饰器
+
+9. **模块与命名空间**
+   - 模块的导入与导出
+   - 命名空间的使用
+
+10. **配置文件 tsconfig.json**
+    - 配置编译选项
+    - 配置源代码管理
+
+### TypeScript 实战
+11. **项目结构**
+    - 项目目录结构设计
+    - 模块化管理
+
+12. **与前端框架的整合**
+    - React + TypeScript
+    - Angular + TypeScript
+    - Vue + TypeScript
+
+13. **代码重构**
+    - 利用 TypeScript 进行代码重构
+    - 代码质量提升
+
+14. **测试**
+    - TypeScript 与单元测试
+    - 集成测试
+
+15. **性能优化**
+    - TypeScript 编译选项优化
+    - 运行时性能考虑
+
+### TypeScript 高级应用
+16. **构建工具与任务自动化**
+    - 使用 Gulp 或 Grunt
+    - 使用 Webpack 或 Rollup
+
+17. **自定义类型守卫与类型断言**
+    - 创建自定义类型守卫
+    - 类型断言的应用
+
+18. **类型推断**
+    - TypeScript 的类型推断机制
+    - 优化类型推断
+
+19. **代码规范与最佳实践**
+    - TSLint 或 ESLint 的使用
+    - 代码风格指南
+
+20. **社区与资源**
+    - 参与 TypeScript 社区
+    - 阅读和贡献开源项目
+
+21. **案例研究**
+    - 分析实际项目中的 TypeScript 应用
+    - 学习业界最佳实践
+
+### TypeScript 专家级
+22. **深入 TypeScript 编译器**
+    - 理解 TypeScript 编译器工作原理
+    - 编译器插件开发
+
+23. **语言服务与编辑器集成**
+    - TypeScript 语言服务 API
+    - VSCode 插件开发
+
+24. **大型项目实战**
+    - 参与大型项目开发
+    - 解决复杂业务逻辑
+
+25. **持续学习**
+    - 关注 TypeScript 官方动态
+    - 学习最新的 TypeScript 特性
 ##### 基本类型(单类型)
 - String
 - Number
