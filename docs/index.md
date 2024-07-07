@@ -14,15 +14,15 @@ hero:
     - theme: alt
       text: 在线演示
       link: /pages/docs/README.md
-    # - theme: alt
-    #   text: GitHub
-    #   link: https://github.com/vuejs/vitepress
-    # - theme: alt
-    #   text: Gitee
-    #   link: https://github.com/vuejs/vitepress
-    # - theme: alt
-    #   text: 加入讨论群
-    #   link: https://github.com/vuejs/vitepress
+    - theme: alt
+      text: GitHub
+      link: https://github.com/vuejs/vitepress
+    - theme: alt
+      text: Gitee
+      link: https://github.com/vuejs/vitepress
+    - theme: alt
+      text: 加入讨论群
+      link: https://github.com/vuejs/vitepress
 features:
   - icon: ⚡️
     title: 定制組件
